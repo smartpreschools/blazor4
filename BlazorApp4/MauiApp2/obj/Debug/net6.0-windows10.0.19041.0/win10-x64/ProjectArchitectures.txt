@@ -1,0 +1,1 @@
+E:\SpeduTech\C#\Programming\BlazorApp4\MauiApp2\MauiApp2.csproj;x64

@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\obj\\Debug\\net6.0\\build-gz\\fJpOqvwe.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp4.Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorApp4.Client.styles.css"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\SpeduTech\\C#\\Programming\\BlazorApp4\\BlazorApp4\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorApp4.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorApp4.Client.props",
+      "PackagePath": "build\\BlazorApp4.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp4.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp4.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp4.Client.props",
+      "PackagePath": "buildTransitive\\BlazorApp4.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

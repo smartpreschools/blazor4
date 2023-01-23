@@ -1,0 +1,12 @@
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\bin\Release\net6.0\BlazorApp4.Shared.deps.json
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\bin\Release\net6.0\BlazorApp4.Shared.dll
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\bin\Release\net6.0\BlazorApp4.Shared.pdb
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.csproj.AssemblyReference.cache
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.AssemblyInfoInputs.cache
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.AssemblyInfo.cs
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.csproj.CoreCompileInputs.cache
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.dll
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\refint\BlazorApp4.Shared.dll
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\BlazorApp4.Shared.pdb
+E:\SpeduTech\C#\Programming\BlazorApp4\BlazorApp4\Shared\obj\Release\net6.0\ref\BlazorApp4.Shared.dll
